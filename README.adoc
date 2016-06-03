@@ -1,1 +1,15 @@
- 
+= Pivotal RSVP
+
+This application allows users to RSVP and sign up for events like Workshops
+
+== Build
+
+. Build with Maven
+----
+$ mvn clean package
+----
+
+== Deploy to PCF
+----
+$ cf push
+----
