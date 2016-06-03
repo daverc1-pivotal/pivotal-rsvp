@@ -13,3 +13,11 @@ $ mvn clean package
 ----
 $ cf push
 ----
+
+== Example
+
+https://pivotal-rsvp.cfapps.io/
+
+== ToDo
+
+. Save data into DB instead of Emails
